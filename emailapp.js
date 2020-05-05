@@ -1,4 +1,4 @@
-// https://repl.it/repls/ExpertMammothLocks
+// https://repl.it/@juliefield/emailAppHomework
 
 var appData = {
   name: 'Gmail',
